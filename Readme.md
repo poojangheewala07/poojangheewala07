@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWk5ejY4anByNjcwcTBvaGlncjM1MHFoaXpqem45cnJ1ejA3eHRydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>hello, It's Poojan here✋!</h1>
+  <h1>Hello, It's Poojan here✋!</h1>
   <h2>Connect with me</h2>
   <div id="badges">
   <a href="your-linkedin-URL">
