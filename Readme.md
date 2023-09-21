@@ -5,7 +5,7 @@
   <h1>Hello, It's Poojan here✋!</h1>
   <h2>Connect with me</h2>
   <div id="badges">
-  <a href="www.linkedin.com/in/poojan-gheewala07">
+  <a href="https://linkedin.com/in/poojan-gheewala07">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/poojan_gheewala_07?igshid=NzZlODBkYWE4Ng==">
