@@ -5,17 +5,14 @@
   <h1>Hello, It's Poojan here✋!</h1>
   <h2>Connect with me</h2>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/poojan-gheewala-386459236">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://instagram.com/poojan_gheewala_07?igshid=NzZlODBkYWE4Ng==">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/GheewalaPoojan?t=zzGdUlfl5VMbKpvF75TzVQ&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-     <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
   <div>
